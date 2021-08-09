@@ -1,9 +1,11 @@
-### oie 👋
+🔭 Currently work: -
 
-<!--
-**gahzk/gahzk**
+👨‍🎓 Studying: Phyton
 
-Here are some ideas to get you started:
+🌱 Learning: Phyton and Java
 
-- 🔭 aprendendo a programar 
+🎒 Main Tools: Visual Studio Code and GitHub;
 
+🙋‍♂️ Social Networks: Instagram (@bielszk)
+
+⚡ Fun fact: i don't have '-'
