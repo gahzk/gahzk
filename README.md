@@ -6,6 +6,5 @@
 
 🎒 Main Tools: Visual Studio Code and GitHub;
 
-🙋‍♂️ Social Networks: Instagram (@bielszk)
+🙋‍♂️ Social Networks: Instagram (@gahzika)
 
-⚡ Fun fact: i don't have '-'
